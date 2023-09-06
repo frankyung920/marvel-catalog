@@ -1,8 +1,6 @@
-# coding-challenge - Frank
+# marvel-catalog - Frank
 
-**Name: Frank Yung**  
-
-**Project Title: Coding Challenge - Marvel API - v1**  
+**Project Title: Marvel catalog**  
 
 #### Environment Variable 
 ```
